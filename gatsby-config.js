@@ -6,5 +6,9 @@
 
 module.exports = {
   /* Your site config here */
+  siteMetadata: {
+    title: "Full-stack developer",
+    author: "Raj Chunara",
+  },
   plugins: [],
 }
